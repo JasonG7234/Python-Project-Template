@@ -1,4 +1,4 @@
-# Python Project Template
+# NBA Draft Pick 'Em
 
 This is a very barebones project scaffolding for a Python project. Feel free to fork & modify as you wish.
 
