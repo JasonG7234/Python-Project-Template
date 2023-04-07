@@ -6,6 +6,7 @@ This repository serves as a simple template for a Python project, providing a ba
 - `tests/`: For unit tests to ensure the functionality of your code.
 - `src/`: For all source code files.
 - `requirements.txt`: A list of dependencies required for your project.
+- `pyproject.toml`: A beginning to a CI/CD pipeline.
 
 ## Getting Started
 
@@ -25,7 +26,8 @@ The `requirements.txt` file lists common dependencies for many Python projects, 
 
 This repository is licensed under the [MIT License](LICENSE), which allows for both personal and commercial use. Feel free to modify this file to reflect the licensing terms for your own project.
 
-Note: I would also recommend creating a virtual environment to go along with this project, but it is currently ignored according to the .gitignore.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Note: I would also recommend creating a virtual environment to go along with this project, but it is currently ignored according to the .gitignore.
